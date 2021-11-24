@@ -1,0 +1,6 @@
+Sprite "PAIMA0", 25, 46{
+	XScale 2.000	
+YScale 2.000	
+Offset 11, 46
+Patch "PAIMA0", 0, 0
+}

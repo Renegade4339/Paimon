@@ -1,4 +1,5 @@
 *** PAIMON
+
 Alright, for all you're waiting for.
 `PAIMON HAS BEEN CONVERTED INTO A LITERAL EMERGENCY FOOD`
 Yes, you can now FINALLY consume Paimon when there's no food around. ehe

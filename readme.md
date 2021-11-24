@@ -1,4 +1,4 @@
-*** PAIMON
+**PAIMON**
 
 Alright, for all you're waiting for.
 `PAIMON HAS BEEN CONVERTED INTO A LITERAL EMERGENCY FOOD`
